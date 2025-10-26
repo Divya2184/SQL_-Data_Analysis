@@ -1,0 +1,40 @@
+ -- SQL Data Analysis - Employee Dataset :-
+    =====================================
+
+   -- Overview :
+     ----------
+
+     - This project demonstrates SQL-based data analysis using an employee dataset. 
+       The goal is to analyze employee demographics, education, experience, and attrition trends.
+
+   -- Key SQL Concepts Used :
+      ----------------------
+
+     - SELECT, WHERE, ORDER BY, GROUP BY
+     - Aggregate functions (AVG, COUNT)
+     - Subqueries
+     - Views
+     - Index creation for optimization
+     - Handling NULL values
+
+  -- Example Insights :
+     -----------------
+
+    - Distribution of employees by city
+    - Average experience by education level
+    - Percentage of employees who left
+    - High-experience employees view
+
+ -- Tools :
+   -------
+
+   - Tool: MySQL 
+   - Dataset: employee.csv  
+
+ -- Repository Contents :
+    -------------------
+
+   - queries.sql → All SQL queries  
+   - Screenshots → Query outputs  
+   - Dataset/employee.csv → Dataset used
+
